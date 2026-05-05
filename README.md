@@ -92,3 +92,48 @@ Mechanical keyboards are expensive. The ones worth buying cost way more than I w
 ---
 
 ## Repo Structure
+...
+Broccoli-board/
+├── README.md
+├── Broccoli board BOM.csv
+├── pcb/                        ← KiCad source + gerbers.zip
+├── cad/                        ← Fusion 360 + STEP files
+├── firmware/                   ← ZMK shield files + build.yaml
+├── img assets/                 ← screenshots and renders
+...
+
+> ZMK firmware repo: [Broccoli Board ZMK](https://github.com/fussdeek-del/Broccoli--board-zmk)
+
+---
+
+## BOM
+
+Full bill of materials with links and prices: [`Broccoli board BOM.csv`](./Broccoli%20board%20BOM.csv)
+
+Total estimated cost: **~$153 USD** (clone nice!nano) or **~$165 USD** (original)
+
+---
+
+## Zine Page
+
+*Made for Hack Club Fallout — Shenzhen 2026*
+
+![Broccoli Board Zine Page](img%20assets/zine.png)
+
+---
+
+## Credits
+
+- [KiCad](https://www.kicad.org/) — PCB design
+- [ZMK Firmware](https://zmk.dev/) — open source keyboard firmware
+- [Fusion 360](https://www.autodesk.com/products/fusion-360/) — case design
+- [nice!nano](https://nicekeyboards.com/nice-nano/) — nRF52840 BLE module
+- [Hack Club Fallout](https://fallout.hackclub.com) — grant program that made this real
+
+Made by **broccoli (Nabeel Ahmed), 18** — Pakistan 🇵🇰
+
+---
+
+## License
+
+MIT
