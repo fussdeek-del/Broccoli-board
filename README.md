@@ -92,7 +92,7 @@ Mechanical keyboards are expensive. The ones worth buying cost way more than I w
 ---
 
 ## Repo Structure
-...
+'''
 Broccoli-board/
 ├── README.md
 ├── Broccoli board BOM.csv
@@ -100,7 +100,7 @@ Broccoli-board/
 ├── cad/                        ← Fusion 360 + STEP files
 ├── firmware/                   ← ZMK shield files + build.yaml
 ├── img assets/                 ← screenshots and renders
-...
+'''
 
 > ZMK firmware repo: [Broccoli Board ZMK](https://github.com/fussdeek-del/Broccoli--board-zmk)
 
