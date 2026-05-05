@@ -1,0 +1,3 @@
+config SHIELD_BROCCOLI_BOARD
+    def_bool $(shields_list_contains,broccoli_board)
+    
