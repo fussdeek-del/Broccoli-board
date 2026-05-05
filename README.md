@@ -1,3 +1,4 @@
+
 # Broccoli Board
 
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
@@ -23,6 +24,7 @@ Mechanical keyboards are expensive. The ones worth buying cost way more than I w
 
 ## Demo
 
+
 ![Broccoli Board PCB](img%20assets/cover.png)
 
 ---
@@ -44,7 +46,7 @@ Mechanical keyboards are expensive. The ones worth buying cost way more than I w
 
 ---
 
-## Hardware Specs
+## Hardware
 
 | Component | Details |
 |---|---|
@@ -65,9 +67,12 @@ Mechanical keyboards are expensive. The ones worth buying cost way more than I w
 | Case | 3D printed SLA resin, custom Fusion 360 |
 | Matrix | 9 rows × 10 columns, col2row diodes |
 
+[`BOM components.csv`](BOM%20components.csv)
+
 ---
 
-## How to Build
+## How to use
+
 
 ### Order the PCB
 1. Go to [JLCPCB](https://jlcpcb.com)
@@ -89,10 +94,9 @@ Mechanical keyboards are expensive. The ones worth buying cost way more than I w
 - Socket the nice!nano using mill-max sockets
 - JST PH2 connector for battery (J2)
 
----
+## Repo structure
 
-## Repo Structure
-'''
+```
 Broccoli-board/
 ├── README.md
 ├── Broccoli board BOM.csv
@@ -100,25 +104,21 @@ Broccoli-board/
 ├── cad/                        ← Fusion 360 + STEP files
 ├── firmware/                   ← ZMK shield files + build.yaml
 ├── img assets/                 ← screenshots and renders
-'''
+```
+---
 
 > ZMK firmware repo: [Broccoli Board ZMK](https://github.com/fussdeek-del/Broccoli--board-zmk)
 
 ---
 
-## BOM
 
-Full bill of materials with links and prices: [`Broccoli board BOM.csv`](./Broccoli%20board%20BOM.csv)
+## Zine page
 
-Total estimated cost: **~$153 USD** (clone nice!nano) or **~$165 USD** (original)
+*Made for Hack Club Fallout -- Shenzhen 2025*
 
----
-
-## Zine Page
-
-*Made for Hack Club Fallout — Shenzhen 2026*
-
-![Broccoli Board Zine Page](img%20assets/zine.png)
+<p align="center">
+  <img src="ASSETS/zine-page.png" alt="NXH Zine page — Nabeel x Hashir, Pakistan" width="60%"/>
+</p>
 
 ---
 
