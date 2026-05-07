@@ -100,6 +100,12 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 6. Drag `.uf2` onto the USB drive that appears
 note: The frimware isn't completely, i will complete it once this gets approved.
 
+---
+
+> ZMK firmware repo: [Broccoli--board-zmk](https://github.com/fussdeek-del/Broccoli--board-zmk)
+
+---
+
 ### Assembly Notes
 - Solder LEDs on **B.Cu** reverse mount facing down
 - Solder hotswap sockets on **F.Cu**
