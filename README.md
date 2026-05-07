@@ -9,8 +9,6 @@
 
 > A fully wireless 75% mechanical keyboard built from scratch — custom PCB, per-key RGB, BLE 5.0, hot-swap switches, and a 3D printed case. Every component chosen, every trace routed by hand.
 
-![Zine Page](img%20assets/ZINE.png)
-
 ---
 
 ## What is it?
@@ -21,13 +19,55 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 
 ---
 
-## Demo
+## Zine
 
-![PCB](img%20assets/PCB-B.cu.png)
+![Zine](img%20assets/ZINE.png)
 
-![PCB Back](img assets/PCB B.cu.png)
+---
 
-![PCB Front](img assets/PCB F.cu.png)
+## Gallery
+
+### AI Renders
+
+![AI Generated Final Look](img%20assets/AI%20generated%20final%20look.jpg)
+
+![AI Generated Final Look 2](img%20assets/AI%20generated%20final%20look%202.jpg)
+
+### CAD & Assembly
+
+![Full Assembly CAD](img%20assets/full%20assembly%20CAD.jpg)
+
+![CAD Side Look](img%20assets/CAD%20side%20look%202.jpg)
+
+![Side Curved View](img%20assets/side%20curved%20view.png)
+
+### Case / Tray
+
+![Tray Front](img%20assets/Tray%20front.png)
+
+![Tray Back](img%20assets/Tray%20back.png)
+
+![Plate](img%20assets/plate.png)
+
+### PCB
+
+![PCB Front](img%20assets/PCB%20F.cu.png)
+
+![PCB Back](img%20assets/PCB%20B.cu.png)
+
+### Keys Placed
+
+![Placed Keys](img%20assets/placed%20keys.jfif)
+
+### Cover
+
+![Cover](img%20assets/cover.png)
+
+---
+
+## QR Code
+
+![QR Code](img%20assets/QR%20code.png)
 
 ---
 
@@ -118,7 +158,7 @@ Estimated total: **~$153 USD** with clone nice!nano, **~$165 USD** with original
 - [nice!nano](https://nicekeyboards.com/nice-nano/) — nRF52840 BLE module
 - [Hack Club Fallout](https://fallout.hackclub.com) — grant that made this real
 
-Made by **broccoli Nabeel Ahmed(18) X Hashir(17),** — Punjab, Pakistan 🇵🇰
+Made by **Nabeel Ahmed (18) × Hashir (17)** — Punjab, Pakistan 🇵🇰
 
 ---
 
