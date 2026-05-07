@@ -46,8 +46,8 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 
 - 84 keys, 75% layout
 - Wireless BLE 5.0 via nice!nano V2 (nRF52840)
-- Per-key SK6812 Mini-E RGB — reverse mount on B.Cu
-- Kailh hot-swap sockets — no soldering to swap switches
+- Per-key SK6812 Mini-E RGB reverse mount on B.Cu
+- Kailh hot-swap sockets no soldering to swap switches
 - Rotary encoder with push switch (EC11)
 - USB-C wired + wireless dual mode
 - 3.7V LiPo 2000mAh with MCP73831 charger IC
@@ -55,7 +55,7 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 - USBLC6-2SC6 ESD protection on USB lines
 - ZMK firmware
 - 2-layer PCB, KiCad 10, JLCPCB fabrication
-- Custom 3D printed case — tray, plate, and bezel
+- Custom 3D printed case tray, plate, and bezel
 
 ---
 
@@ -98,18 +98,13 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 4. Download `.uf2` from Actions artifacts
 5. Double-tap reset on nice!nano to enter bootloader
 6. Drag `.uf2` onto the USB drive that appears
+note: The frimware isn't completely, i will complete it once this gets approved.
 
 ### Assembly Notes
 - Solder LEDs on **B.Cu** reverse mount facing down
 - Solder hotswap sockets on **F.Cu**
-- Socket the nice!nano with mill-max sockets, don't solder directly
+- Solder the nice!nano v2 clone
 - Battery connects via JST PH2 to J2
-
----
-
-> ZMK firmware repo: [Broccoli--board-zmk](https://github.com/fussdeek-del/Broccoli--board-zmk)
-
----
 
 ## BOM
 
