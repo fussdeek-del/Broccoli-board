@@ -128,7 +128,7 @@ Estimated total: **~$153 USD** with clone nice!nano, **~$165 USD** with original
 - [nice!nano](https://nicekeyboards.com/nice-nano/) — nRF52840 BLE module
 - [Hack Club Fallout](https://fallout.hackclub.com) — grant that made this real
 
-Made by **broccoli (Nabeel Ahmed), 18** — Punjab, Pakistan 🇵🇰
+Made by **broccoli Nabeel Ahmed(18) X Hashir(17),** — Punjab, Pakistan 🇵🇰
 
 ---
 
