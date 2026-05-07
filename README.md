@@ -145,7 +145,8 @@ note: The frimware isn't completely, i will complete it once this gets approved.
 | M3 Standoffs | M3 × 4mm | ×10 | $1.00 | Pack of 50 | [Buy](https://www.aliexpress.com/item/1005008810897680.html) |
 
 ---
-
+## Schematics note
+Schematics is reviewed my multiple people + AI. there was problem init that i fixed, and now it LGTM
 ## Credits
 
 - [KiCad](https://www.kicad.org/) — PCB design
