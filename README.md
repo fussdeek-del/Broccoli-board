@@ -29,17 +29,20 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 ## Gallery
 
 ### CAD & Assembly
-
-![Full Assembly CAD](img%20assets/full%20assembly%20CAD.jpg)
-
-![Side Curved View](img%20assets/side%20curved%20view.png)
+<table>
+  <tr>
+    <td><img src="img%20assets/full%20assembly%20CAD.jpg" width="400"/></td>
+    <td><img src="img%20assets/side%20curved%20view.png" width="400"/></td>
+  </tr>
+</table>
 
 ### PCB
-
-![PCB Front](img%20assets/PCB%20Fcu.png)
-
-![PCB Back](img%20assets/PCB%20Bcu.png)
-
+<table>
+  <tr>
+    <td><img src="img%20assets/PCB%20Fcu.png" width="400"/></td>
+    <td><img src="img%20assets/PCB%20Bcu.png" width="400"/></td>
+  </tr>
+</table>
 ---
 
 ## Features
