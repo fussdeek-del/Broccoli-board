@@ -5735,6 +5735,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0254")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5808,6 +5814,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0177")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0177")
 					(unit 1)
 				)
@@ -5899,6 +5911,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED37")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5986,6 +6004,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6059,6 +6083,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0197")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0197")
 					(unit 1)
 				)
@@ -6140,6 +6170,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C95")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C95")
 					(unit 1)
 				)
@@ -6231,6 +6267,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6318,6 +6360,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED68")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6391,6 +6439,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR069")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR069")
 					(unit 1)
 				)
@@ -6472,6 +6526,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0356")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6545,6 +6605,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR096")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR096")
 					(unit 1)
 				)
@@ -6636,6 +6702,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED79")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6717,6 +6789,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C36")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6790,6 +6868,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0300")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0300")
 					(unit 1)
 				)
@@ -6881,6 +6965,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED78")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6954,6 +7044,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0275")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0275")
 					(unit 1)
 				)
@@ -7035,6 +7131,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0276")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7108,6 +7210,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0369")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0369")
 					(unit 1)
 				)
@@ -7193,6 +7301,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C49")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7270,6 +7384,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0141")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7343,6 +7463,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0192")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0192")
 					(unit 1)
 				)
@@ -7434,6 +7560,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED51")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7507,6 +7639,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0350")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0350")
 					(unit 1)
 				)
@@ -7588,6 +7726,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0205")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7665,6 +7809,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0314")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7738,6 +7888,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0359")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0359")
 					(unit 1)
 				)
@@ -7829,6 +7985,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED60")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7902,6 +8064,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0292")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0292")
 					(unit 1)
 				)
@@ -7983,6 +8151,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0274")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8056,6 +8230,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0330")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0330")
 					(unit 1)
 				)
@@ -8147,6 +8327,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED14")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8224,6 +8410,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C51")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C51")
 					(unit 1)
 				)
@@ -8309,6 +8501,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C46")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8386,6 +8584,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C81")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C81")
 					(unit 1)
 				)
@@ -8477,6 +8681,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED43")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8558,6 +8768,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C24")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8631,6 +8847,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0251")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0251")
 					(unit 1)
 				)
@@ -8712,6 +8934,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0286")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8785,6 +9013,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0152")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0152")
 					(unit 1)
 				)
@@ -8876,6 +9110,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED72")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8957,6 +9197,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C39")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9030,6 +9276,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR078")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR078")
 					(unit 1)
 				)
@@ -9111,6 +9363,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR071")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9184,6 +9442,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0361")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0361")
 					(unit 1)
 				)
@@ -9269,6 +9533,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C65")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9342,6 +9612,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0223")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0223")
 					(unit 1)
 				)
@@ -9423,6 +9699,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR070")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9496,6 +9778,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0308")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0308")
 					(unit 1)
 				)
@@ -9581,6 +9869,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C41")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9654,6 +9948,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0250")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0250")
 					(unit 1)
 				)
@@ -9745,6 +10045,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED42")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9832,6 +10138,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED75")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9905,6 +10217,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0258")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0258")
 					(unit 1)
 				)
@@ -9986,6 +10304,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0377")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10059,6 +10383,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0113")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0113")
 					(unit 1)
 				)
@@ -10140,6 +10470,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0174")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10217,6 +10553,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0368")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10290,6 +10632,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0150")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0150")
 					(unit 1)
 				)
@@ -10375,6 +10723,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C21")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10456,6 +10810,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C33")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10529,6 +10889,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0233")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0233")
 					(unit 1)
 				)
@@ -10610,6 +10976,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0191")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10683,6 +11055,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0168")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0168")
 					(unit 1)
 				)
@@ -10764,6 +11142,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0363")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10841,6 +11225,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0375")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10914,6 +11304,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0248")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0248")
 					(unit 1)
 				)
@@ -11005,6 +11401,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED29")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11092,6 +11494,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED35")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11169,6 +11577,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0269")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11242,6 +11656,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0172")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0172")
 					(unit 1)
 				)
@@ -11327,6 +11747,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C97")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11400,6 +11826,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0101")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0101")
 					(unit 1)
 				)
@@ -11481,6 +11913,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0112")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11554,6 +11992,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0279")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0279")
 					(unit 1)
 				)
@@ -11635,6 +12079,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C84")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C84")
 					(unit 1)
 				)
@@ -11726,6 +12176,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED9")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11799,6 +12255,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0288")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0288")
 					(unit 1)
 				)
@@ -11884,6 +12346,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C61")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11961,6 +12429,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C23")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C23")
 					(unit 1)
 				)
@@ -12046,6 +12520,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C96")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12119,6 +12599,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0281")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0281")
 					(unit 1)
 				)
@@ -12200,6 +12686,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0225")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12277,6 +12769,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0366")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12350,6 +12848,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0263")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0263")
 					(unit 1)
 				)
@@ -12441,6 +12945,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED67")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12518,6 +13028,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C74")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C74")
 					(unit 1)
 				)
@@ -12609,6 +13125,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED54")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12682,6 +13204,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0318")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0318")
 					(unit 1)
 				)
@@ -12763,6 +13291,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0339")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12836,6 +13370,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0311")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0311")
 					(unit 1)
 				)
@@ -12917,6 +13457,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0242")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12990,6 +13536,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0345")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0345")
 					(unit 1)
 				)
@@ -13071,6 +13623,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR089")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13144,6 +13702,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0310")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0310")
 					(unit 1)
 				)
@@ -13229,6 +13793,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C68")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13302,6 +13872,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR087")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR087")
 					(unit 1)
 				)
@@ -13393,6 +13969,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED31")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13470,6 +14052,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0296")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13543,6 +14131,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0381")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0381")
 					(unit 1)
 				)
@@ -13628,6 +14222,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C53")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13701,6 +14301,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0104")
 					(unit 1)
 				)
@@ -13782,6 +14388,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0235")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13855,6 +14467,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0334")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0334")
 					(unit 1)
 				)
@@ -13936,6 +14554,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0268")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14013,6 +14637,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR099")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14086,6 +14716,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0106")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0106")
 					(unit 1)
 				)
@@ -14171,6 +14807,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C45")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14244,6 +14886,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0151")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0151")
 					(unit 1)
 				)
@@ -14335,6 +14983,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED7")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14422,6 +15076,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED22")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14503,6 +15163,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C59")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14576,6 +15242,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0163")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0163")
 					(unit 1)
 				)
@@ -14657,6 +15329,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0360")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14734,6 +15412,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C43")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C43")
 					(unit 1)
 				)
@@ -14825,6 +15509,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED48")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14898,6 +15588,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR082")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR082")
 					(unit 1)
 				)
@@ -14979,6 +15675,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0227")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15052,6 +15754,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0358")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0358")
 					(unit 1)
 				)
@@ -15133,6 +15841,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0181")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15206,6 +15920,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0193")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0193")
 					(unit 1)
 				)
@@ -15287,6 +16007,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0237")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15360,6 +16086,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR097")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR097")
 					(unit 1)
 				)
@@ -15451,6 +16183,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED53")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15524,6 +16262,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0154")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0154")
 					(unit 1)
 				)
@@ -15605,6 +16349,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0111")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15678,6 +16428,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0100")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0100")
 					(unit 1)
 				)
@@ -15759,6 +16515,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR098")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15832,6 +16594,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0103")
 					(unit 1)
 				)
@@ -15913,6 +16681,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0155")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15986,6 +16760,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0184")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0184")
 					(unit 1)
 				)
@@ -16071,6 +16851,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C31")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16152,6 +16938,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C60")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16229,6 +17021,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0199")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16302,6 +17100,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0277")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0277")
 					(unit 1)
 				)
@@ -16393,6 +17197,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED33")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16466,6 +17276,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0173")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0173")
 					(unit 1)
 				)
@@ -16547,6 +17363,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0249")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16620,6 +17442,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0147")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0147")
 					(unit 1)
 				)
@@ -16705,6 +17533,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C70")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16778,6 +17612,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0284")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0284")
 					(unit 1)
 				)
@@ -16863,6 +17703,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C69")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16936,6 +17782,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0302")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0302")
 					(unit 1)
 				)
@@ -17027,6 +17879,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17100,6 +17958,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0271")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0271")
 					(unit 1)
 				)
@@ -17181,6 +18045,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0301")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17254,6 +18124,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR072")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR072")
 					(unit 1)
 				)
@@ -17335,6 +18211,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0340")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17408,6 +18290,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0102")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0102")
 					(unit 1)
 				)
@@ -17489,6 +18377,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0175")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17562,6 +18456,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0341")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0341")
 					(unit 1)
 				)
@@ -17643,6 +18543,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0325")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17716,6 +18622,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR084")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR084")
 					(unit 1)
 				)
@@ -17797,6 +18709,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0273")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17870,6 +18788,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0124")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0124")
 					(unit 1)
 				)
@@ -17951,6 +18875,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0194")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18024,6 +18954,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0109")
 					(unit 1)
 				)
@@ -18105,6 +19041,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0252")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18178,6 +19120,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0211")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0211")
 					(unit 1)
 				)
@@ -18259,6 +19207,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0221")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18332,6 +19286,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0230")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0230")
 					(unit 1)
 				)
@@ -18413,6 +19373,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0148")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18486,6 +19452,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR028")
 					(unit 1)
 				)
@@ -18567,6 +19539,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0259")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18644,6 +19622,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0264")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18717,6 +19701,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0280")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0280")
 					(unit 1)
 				)
@@ -18802,6 +19792,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C29")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18879,6 +19875,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C82")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C82")
 					(unit 1)
 				)
@@ -18964,6 +19966,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C56")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19037,6 +20045,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR063")
 					(unit 1)
 				)
@@ -19128,6 +20142,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED50")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19209,6 +20229,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C32")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19282,6 +20308,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR077")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR077")
 					(unit 1)
 				)
@@ -19373,6 +20405,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED19")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19450,6 +20488,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0117")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19523,6 +20567,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0291")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0291")
 					(unit 1)
 				)
@@ -19614,6 +20664,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED39")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19687,6 +20743,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0114")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0114")
 					(unit 1)
 				)
@@ -19768,6 +20830,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0316")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19845,6 +20913,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0149")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -19918,6 +20992,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0144")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0144")
 					(unit 1)
 				)
@@ -20009,6 +21089,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED55")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20092,6 +21178,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "LED13")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "LED13")
 					(unit 1)
 				)
@@ -20183,6 +21275,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED76")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20256,6 +21354,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0187")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0187")
 					(unit 1)
 				)
@@ -20337,6 +21441,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C30")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C30")
 					(unit 1)
 				)
@@ -20428,6 +21538,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED46")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20501,6 +21617,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0370")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0370")
 					(unit 1)
 				)
@@ -20582,6 +21704,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0182")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20659,6 +21787,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR088")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20732,6 +21866,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0125")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0125")
 					(unit 1)
 				)
@@ -20817,6 +21957,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C80")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20898,6 +22044,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C44")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -20975,6 +22127,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0170")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21048,6 +22206,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0179")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0179")
 					(unit 1)
 				)
@@ -21133,6 +22297,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C40")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21206,6 +22376,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0128")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0128")
 					(unit 1)
 				)
@@ -21287,6 +22463,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0322")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21360,6 +22542,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0305")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0305")
 					(unit 1)
 				)
@@ -21441,6 +22629,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0327")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21514,6 +22708,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0131")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0131")
 					(unit 1)
 				)
@@ -21595,6 +22795,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0295")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21668,6 +22874,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0127")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0127")
 					(unit 1)
 				)
@@ -21749,6 +22961,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0313")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21822,6 +23040,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR031")
 					(unit 1)
 				)
@@ -21903,6 +23127,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0238")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -21980,6 +23210,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0317")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22053,6 +23289,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0266")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0266")
 					(unit 1)
 				)
@@ -22144,6 +23386,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED26")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22217,6 +23465,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0333")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0333")
 					(unit 1)
 				)
@@ -22308,6 +23562,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED10")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22381,6 +23641,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0229")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0229")
 					(unit 1)
 				)
@@ -22462,6 +23728,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0261")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22535,6 +23807,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR068")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR068")
 					(unit 1)
 				)
@@ -22620,6 +23898,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C57")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22697,6 +23981,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C73")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C73")
 					(unit 1)
 				)
@@ -22782,6 +24072,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C86")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -22855,6 +24151,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0342")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0342")
 					(unit 1)
 				)
@@ -22936,6 +24238,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0319")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23013,6 +24321,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0110")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23086,6 +24400,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0270")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0270")
 					(unit 1)
 				)
@@ -23177,6 +24497,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED25")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23250,6 +24576,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0107")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0107")
 					(unit 1)
 				)
@@ -23331,6 +24663,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0374")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23404,6 +24742,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0180")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0180")
 					(unit 1)
 				)
@@ -23485,6 +24829,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR091")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23558,6 +24908,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0272")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0272")
 					(unit 1)
 				)
@@ -23649,6 +25005,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED66")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23722,6 +25084,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0282")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0282")
 					(unit 1)
 				)
@@ -23803,6 +25171,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0373")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23880,6 +25254,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0353")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -23953,6 +25333,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0169")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0169")
 					(unit 1)
 				)
@@ -24038,6 +25424,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C94")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24115,6 +25507,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0232")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24188,6 +25586,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0267")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0267")
 					(unit 1)
 				)
@@ -24279,6 +25683,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED74")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24352,6 +25762,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0208")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0208")
 					(unit 1)
 				)
@@ -24437,6 +25853,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C58")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24510,6 +25932,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0189")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0189")
 					(unit 1)
 				)
@@ -24591,6 +26019,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR074")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24664,6 +26098,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR029")
 					(unit 1)
 				)
@@ -24749,6 +26189,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C35")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24822,6 +26268,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0203")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0203")
 					(unit 1)
 				)
@@ -24907,6 +26359,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C19")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -24980,6 +26438,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0202")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0202")
 					(unit 1)
 				)
@@ -25061,6 +26525,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR076")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -25134,6 +26604,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR034")
 					(unit 1)
 				)
@@ -25215,6 +26691,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C89")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C89")
 					(unit 1)
 				)
@@ -25306,6 +26788,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED84")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -25379,6 +26867,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0253")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0253")
 					(unit 1)
 				)
@@ -25460,6 +26954,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0265")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -25533,6 +27033,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0245")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0245")
 					(unit 1)
 				)
@@ -25624,6 +27130,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED73")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -25697,6 +27209,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0382")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0382")
 					(unit 1)
 				)
@@ -25788,6 +27306,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -25861,6 +27385,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0116")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0116")
 					(unit 1)
 				)
@@ -25946,6 +27476,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C79")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26019,6 +27555,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0206")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0206")
 					(unit 1)
 				)
@@ -26110,6 +27652,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED69")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26193,6 +27741,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "LED83")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "LED83")
 					(unit 1)
 				)
@@ -26284,6 +27838,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED34")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26357,6 +27917,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR094")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR094")
 					(unit 1)
 				)
@@ -26442,6 +28008,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C54")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26515,6 +28087,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR095")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR095")
 					(unit 1)
 				)
@@ -26600,6 +28178,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C88")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26673,6 +28257,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0312")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0312")
 					(unit 1)
 				)
@@ -26754,6 +28344,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0133")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26827,6 +28423,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0307")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0307")
 					(unit 1)
 				)
@@ -26918,6 +28520,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED70")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -26991,6 +28599,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0105")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0105")
 					(unit 1)
 				)
@@ -27072,6 +28686,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0120")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27145,6 +28765,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR093")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR093")
 					(unit 1)
 				)
@@ -27226,6 +28852,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0278")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27299,6 +28931,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0289")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0289")
 					(unit 1)
 				)
@@ -27380,6 +29018,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0134")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27453,6 +29097,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0372")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0372")
 					(unit 1)
 				)
@@ -27534,6 +29184,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR081")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27607,6 +29263,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0218")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0218")
 					(unit 1)
 				)
@@ -27688,6 +29350,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0121")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27765,6 +29433,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -27838,6 +29512,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0136")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0136")
 					(unit 1)
 				)
@@ -27929,6 +29609,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED45")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28006,6 +29692,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0214")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28079,6 +29771,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0351")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0351")
 					(unit 1)
 				)
@@ -28164,6 +29862,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C15")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28237,6 +29941,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0294")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0294")
 					(unit 1)
 				)
@@ -28318,6 +30028,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0161")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28391,6 +30107,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0188")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0188")
 					(unit 1)
 				)
@@ -28472,6 +30194,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0178")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28545,6 +30273,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0153")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0153")
 					(unit 1)
 				)
@@ -28626,6 +30360,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0260")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28699,6 +30439,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0122")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0122")
 					(unit 1)
 				)
@@ -28784,6 +30530,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C50")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -28857,6 +30609,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0143")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0143")
 					(unit 1)
 				)
@@ -28938,6 +30696,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C26")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C26")
 					(unit 1)
 				)
@@ -29029,6 +30793,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED49")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29102,6 +30872,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0142")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0142")
 					(unit 1)
 				)
@@ -29183,6 +30959,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0378")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29260,6 +31042,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C72")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C72")
 					(unit 1)
 				)
@@ -29351,6 +31139,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED32")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29424,6 +31218,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0186")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0186")
 					(unit 1)
 				)
@@ -29505,6 +31305,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0226")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29578,6 +31384,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR092")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR092")
 					(unit 1)
 				)
@@ -29659,6 +31471,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0362")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29732,6 +31550,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR066")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR066")
 					(unit 1)
 				)
@@ -29823,6 +31647,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29910,6 +31740,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED47")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -29987,6 +31823,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR086")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30060,6 +31902,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0365")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0365")
 					(unit 1)
 				)
@@ -30151,6 +31999,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED23")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30238,6 +32092,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED71")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30311,6 +32171,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0185")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0185")
 					(unit 1)
 				)
@@ -30392,6 +32258,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0297")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30465,6 +32337,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0209")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0209")
 					(unit 1)
 				)
@@ -30556,6 +32434,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED64")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30643,6 +32527,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED28")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30716,6 +32606,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0162")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0162")
 					(unit 1)
 				)
@@ -30797,6 +32693,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0347")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30874,6 +32776,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0135")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -30947,6 +32855,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0354")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0354")
 					(unit 1)
 				)
@@ -31038,6 +32952,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED27")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31111,6 +33031,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0167")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0167")
 					(unit 1)
 				)
@@ -31202,6 +33128,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED15")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31279,6 +33211,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C66")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C66")
 					(unit 1)
 				)
@@ -31364,6 +33302,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C42")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31437,6 +33381,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR085")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR085")
 					(unit 1)
 				)
@@ -31522,6 +33472,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C71")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31599,6 +33555,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0231")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31672,6 +33634,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0215")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0215")
 					(unit 1)
 				)
@@ -31763,6 +33731,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED21")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31840,6 +33814,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -31913,6 +33893,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0309")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0309")
 					(unit 1)
 				)
@@ -32004,6 +33990,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED82")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32077,6 +34069,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0183")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0183")
 					(unit 1)
 				)
@@ -32168,6 +34166,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED58")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32255,6 +34259,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED63")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32336,6 +34346,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C55")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32409,6 +34425,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0306")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0306")
 					(unit 1)
 				)
@@ -32490,6 +34512,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0246")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32567,6 +34595,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0371")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32640,6 +34674,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0137")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0137")
 					(unit 1)
 				)
@@ -32731,6 +34771,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED11")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32804,6 +34850,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0321")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0321")
 					(unit 1)
 				)
@@ -32895,6 +34947,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED59")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -32968,6 +35026,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0126")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0126")
 					(unit 1)
 				)
@@ -33049,6 +35113,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0196")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33126,6 +35196,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33199,6 +35275,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0213")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0213")
 					(unit 1)
 				)
@@ -33290,6 +35372,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED36")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33371,6 +35459,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C64")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33448,6 +35542,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0323")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33521,6 +35621,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0298")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0298")
 					(unit 1)
 				)
@@ -33612,6 +35718,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED30")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33685,6 +35797,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0220")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0220")
 					(unit 1)
 				)
@@ -33766,6 +35884,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0299")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -33839,6 +35963,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0132")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0132")
 					(unit 1)
 				)
@@ -33930,6 +36060,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED65")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34003,6 +36139,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0290")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0290")
 					(unit 1)
 				)
@@ -34094,6 +36236,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED52")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34167,6 +36315,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0337")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0337")
 					(unit 1)
 				)
@@ -34248,6 +36402,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0190")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34321,6 +36481,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0352")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0352")
 					(unit 1)
 				)
@@ -34406,6 +36572,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C34")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34483,6 +36655,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C52")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C52")
 					(unit 1)
 				)
@@ -34568,6 +36746,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C91")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34641,6 +36825,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0165")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0165")
 					(unit 1)
 				)
@@ -34722,6 +36912,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0171")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34795,6 +36991,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0367")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0367")
 					(unit 1)
 				)
@@ -34886,6 +37088,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED61")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -34959,6 +37167,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0243")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0243")
 					(unit 1)
 				)
@@ -35040,6 +37254,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0145")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35117,6 +37337,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C63")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C63")
 					(unit 1)
 				)
@@ -35208,6 +37434,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED12")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35281,6 +37513,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR073")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR073")
 					(unit 1)
 				)
@@ -35362,6 +37600,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0303")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35439,6 +37683,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0236")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35512,6 +37762,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0332")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0332")
 					(unit 1)
 				)
@@ -35597,6 +37853,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C37")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35670,6 +37932,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0159")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0159")
 					(unit 1)
 				)
@@ -35755,6 +38023,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C62")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35832,6 +38106,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0357")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -35905,6 +38185,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR036")
 					(unit 1)
 				)
@@ -35996,6 +38282,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED20")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36069,6 +38361,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0200")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0200")
 					(unit 1)
 				)
@@ -36160,6 +38458,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED41")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36233,6 +38537,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0216")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0216")
 					(unit 1)
 				)
@@ -36314,6 +38624,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0204")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36387,6 +38703,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR025")
 					(unit 1)
 				)
@@ -36478,6 +38800,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED62")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36551,6 +38879,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0118")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0118")
 					(unit 1)
 				)
@@ -36632,6 +38966,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0338")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36705,6 +39045,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR064")
 					(unit 1)
 				)
@@ -36786,6 +39132,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0315")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36863,6 +39215,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0355")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -36936,6 +39294,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0244")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0244")
 					(unit 1)
 				)
@@ -37021,6 +39385,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C85")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37094,6 +39464,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0255")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0255")
 					(unit 1)
 				)
@@ -37179,6 +39555,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C27")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37256,6 +39638,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C14")
 					(unit 1)
 				)
@@ -37347,6 +39735,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED17")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37420,6 +39814,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0240")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0240")
 					(unit 1)
 				)
@@ -37501,6 +39901,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0123")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37574,6 +39980,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR083")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR083")
 					(unit 1)
 				)
@@ -37659,6 +40071,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C92")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37732,6 +40150,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0139")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0139")
 					(unit 1)
 				)
@@ -37813,6 +40237,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0130")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -37886,6 +40316,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0239")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0239")
 					(unit 1)
 				)
@@ -37967,6 +40403,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0326")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38040,6 +40482,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0160")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0160")
 					(unit 1)
 				)
@@ -38121,6 +40569,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0201")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38194,6 +40648,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0224")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0224")
 					(unit 1)
 				)
@@ -38275,6 +40735,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0241")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38348,6 +40814,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0219")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0219")
 					(unit 1)
 				)
@@ -38439,6 +40911,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED77")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38520,6 +40998,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C38")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38593,6 +41077,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0336")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0336")
 					(unit 1)
 				)
@@ -38674,6 +41164,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0166")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38747,6 +41243,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0346")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0346")
 					(unit 1)
 				)
@@ -38832,6 +41334,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C47")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -38905,6 +41413,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR033")
 					(unit 1)
 				)
@@ -38986,6 +41500,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR065")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -39059,6 +41579,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0146")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0146")
 					(unit 1)
 				)
@@ -39140,6 +41666,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0348")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -39213,6 +41745,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0364")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0364")
 					(unit 1)
 				)
@@ -39294,6 +41832,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0212")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -39367,6 +41911,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0324")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0324")
 					(unit 1)
 				)
@@ -39448,6 +41998,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0156")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -39521,6 +42077,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0287")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0287")
 					(unit 1)
 				)
@@ -39606,6 +42168,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C22")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -39679,6 +42247,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR080")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR080")
 					(unit 1)
 				)
@@ -39760,6 +42334,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C83")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C83")
 					(unit 1)
 				)
@@ -39851,6 +42431,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED18")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -39924,6 +42510,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0247")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0247")
 					(unit 1)
 				)
@@ -40009,6 +42601,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C67")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -40090,6 +42688,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C77")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -40167,6 +42771,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C28")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C28")
 					(unit 1)
 				)
@@ -40258,6 +42868,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED38")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -40331,6 +42947,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0119")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0119")
 					(unit 1)
 				)
@@ -40412,6 +43034,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0320")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -40485,6 +43113,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0176")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0176")
 					(unit 1)
 				)
@@ -40566,6 +43200,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0329")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -40639,6 +43279,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0210")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0210")
 					(unit 1)
 				)
@@ -40720,6 +43366,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0331")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -40793,6 +43445,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0335")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0335")
 					(unit 1)
 				)
@@ -40874,6 +43532,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0293")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -40947,6 +43611,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0285")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0285")
 					(unit 1)
 				)
@@ -41032,6 +43702,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C25")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -41105,6 +43781,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0140")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0140")
 					(unit 1)
 				)
@@ -41190,6 +43872,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C13")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -41263,6 +43951,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0380")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0380")
 					(unit 1)
 				)
@@ -41348,6 +44042,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C20")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -41425,6 +44125,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0195")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -41498,6 +44204,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0283")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0283")
 					(unit 1)
 				)
@@ -41589,6 +44301,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -41662,6 +44380,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0228")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0228")
 					(unit 1)
 				)
@@ -41753,6 +44477,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED44")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -41834,6 +44564,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C48")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -41907,6 +44643,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0217")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0217")
 					(unit 1)
 				)
@@ -41988,6 +44730,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0207")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -42061,6 +44809,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0234")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0234")
 					(unit 1)
 				)
@@ -42152,6 +44906,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED24")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -42225,6 +44985,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0158")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0158")
 					(unit 1)
 				)
@@ -42306,6 +45072,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0328")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -42379,6 +45151,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0222")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0222")
 					(unit 1)
 				)
@@ -42470,6 +45248,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED40")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -42547,6 +45331,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "C90")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "C90")
 					(unit 1)
 				)
@@ -42638,6 +45428,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED80")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -42711,6 +45507,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0198")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0198")
 					(unit 1)
 				)
@@ -42802,6 +45604,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED57")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -42875,6 +45683,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR027")
 					(unit 1)
 				)
@@ -42960,6 +45774,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C87")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -43033,6 +45853,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0256")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0256")
 					(unit 1)
 				)
@@ -43114,6 +45940,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0344")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -43187,6 +46019,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR032")
 					(unit 1)
 				)
@@ -43268,6 +46106,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0115")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -43341,6 +46185,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0376")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0376")
 					(unit 1)
 				)
@@ -43426,6 +46276,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C98")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -43507,6 +46363,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C75")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -43580,6 +46442,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0157")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0157")
 					(unit 1)
 				)
@@ -43661,6 +46529,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR090")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -43734,6 +46608,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0138")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0138")
 					(unit 1)
 				)
@@ -43819,6 +46699,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C78")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -43896,6 +46782,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0379")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -43969,6 +46861,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0349")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0349")
 					(unit 1)
 				)
@@ -44054,6 +46952,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C76")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -44127,6 +47031,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0343")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0343")
 					(unit 1)
 				)
@@ -44208,6 +47118,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0262")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -44281,6 +47197,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0164")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0164")
 					(unit 1)
 				)
@@ -44362,6 +47284,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0129")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -44439,6 +47367,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR0304")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -44512,6 +47446,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0108")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0108")
 					(unit 1)
 				)
@@ -44603,6 +47543,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED56")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -44676,6 +47622,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR067")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR067")
 					(unit 1)
 				)
@@ -44767,6 +47719,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED81")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -44840,6 +47798,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR0257")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR0257")
 					(unit 1)
 				)
@@ -44925,6 +47889,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "C93")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -44998,6 +47968,12 @@
 		(instances
 			(project "Ghoost Board"
 				(path "/0782e688-d066-47fb-a846-3574b92718d9/26d8fae3-1d64-4b26-960b-7cef65cecdb5"
+					(reference "#PWR079")
+					(unit 1)
+				)
+			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
 					(reference "#PWR079")
 					(unit 1)
 				)
@@ -45089,6 +48065,12 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "LED16")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -45166,6 +48148,18 @@
 					(unit 1)
 				)
 			)
+			(project "2nd page"
+				(path "/ef30971a-d1ea-4598-9183-5e4d445729c4"
+					(reference "#PWR075")
+					(unit 1)
+				)
+			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )

@@ -120,7 +120,7 @@
     "files": [
       {
         "name": "Ghoost Board.kicad_pcb",
-        "open": true,
+        "open": false,
         "window": {
           "display": 0,
           "maximized": true,
