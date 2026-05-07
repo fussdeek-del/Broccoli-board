@@ -23,11 +23,11 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 
 ## Demo
 
-![Full assembly](img%20assets/fullassemblyCAD.png)
+![Full assembly](img assets/full assembly CAD.png)
 
-![PCB layout](img%20assets/pcb.png)
+![PCB Back](img assets/PCB B.cu.png)
 
-![Schematic](img%20assets/schematic.png)
+![PCB Front](img assets/PCB F.cu.png)
 
 ---
 
