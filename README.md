@@ -23,7 +23,7 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 
 ## Demo
 
-![Zine Page](img%20assets/PCB-B.cu.png)
+![PCB](img%20assets/PCB-B.cu.png)
 
 ![PCB Back](img assets/PCB B.cu.png)
 
@@ -95,16 +95,6 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 - Battery connects via JST PH2 to J2
 
 ---
-
-## Repo Structure
-
-    Broccoli-board/
-    ├── README.md
-    ├── Broccoli board BOM.csv
-    ├── pcb/                 ← KiCad source files + gerbers.zip
-    ├── cad/                 ← Fusion 360 + STEP exports
-    ├── firmware/            ← ZMK shield files + build.yaml
-    └── img assets/          ← screenshots and renders
 
 > ZMK firmware repo: [Broccoli--board-zmk](https://github.com/fussdeek-del/Broccoli--board-zmk)
 
