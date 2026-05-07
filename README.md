@@ -23,7 +23,7 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 
 ## Demo
 
-![Full assembly](img assets/full assembly CAD.png)
+![PCB F.cu](PCB-B.cu.extension)
 
 ![PCB Back](img assets/PCB B.cu.png)
 
