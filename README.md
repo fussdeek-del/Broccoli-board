@@ -15,6 +15,7 @@
 
 Broccoli Board is a custom 84-key 75% keyboard I designed completely from scratch. The PCB is designed in KiCad, the case in Fusion 360, and the firmware runs on ZMK. It's fully wireless over BLE 5.0 via the nice!nano V2, has per-key RGB LEDs reverse-mounted on the back of the PCB, and uses Kailh hot-swap sockets so I can swap switches without touching a soldering iron.
 
+## Why i built it?
 I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I built one.
 
 ---
@@ -27,47 +28,17 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 
 ## Gallery
 
-### AI Renders
-
-![AI Generated Final Look](img%20assets/AI%20generated%20final%20look.jpg)
-
-![AI Generated Final Look 2](img%20assets/AI%20generated%20final%20look%202.jpg)
-
 ### CAD & Assembly
 
 ![Full Assembly CAD](img%20assets/full%20assembly%20CAD.jpg)
 
-![CAD Side Look](img%20assets/CAD%20side%20look%202.jpg)
-
 ![Side Curved View](img%20assets/side%20curved%20view.png)
-
-### Case / Tray
-
-![Tray Front](img%20assets/Tray%20front.png)
-
-![Tray Back](img%20assets/Tray%20back.png)
-
-![Plate](img%20assets/plate.png)
 
 ### PCB
 
-![PCB Front](img%20assets/PCB%20F.cu.png)
+![PCB Front](img%20assets/PCB%20Fcu.png)
 
-![PCB Back](img%20assets/PCB%20B.cu.png)
-
-### Keys Placed
-
-![Placed Keys](img%20assets/placed%20keys.jfif)
-
-### Cover
-
-![Cover](img%20assets/cover.png)
-
----
-
-## QR Code
-
-![QR Code](img%20assets/QR%20code.png)
+![PCB Back](img%20assets/PCB%20Bcu.png)
 
 ---
 
