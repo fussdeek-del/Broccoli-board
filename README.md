@@ -9,7 +9,7 @@
 
 > A fully wireless 75% mechanical keyboard built from scratch — custom PCB, per-key RGB, BLE 5.0, hot-swap switches, and a 3D printed case. Every component chosen, every trace routed by hand.
 
-![Zine Page](img%20assets/zine.png)
+![Zine Page](img%20assets/ZINE.png)
 
 ---
 
