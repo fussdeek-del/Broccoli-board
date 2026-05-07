@@ -9,7 +9,7 @@
 
 > A fully wireless 75% mechanical keyboard built from scratch — custom PCB, per-key RGB, BLE 5.0, hot-swap switches, and a 3D printed case. Every component chosen, every trace routed by hand.
 
-![Zine Page](img%20assets/zine.png)
+![Zine Page](img%20assets/ZINE.png)
 
 ---
 
@@ -128,7 +128,7 @@ Estimated total: **~$153 USD** with clone nice!nano, **~$165 USD** with original
 - [nice!nano](https://nicekeyboards.com/nice-nano/) — nRF52840 BLE module
 - [Hack Club Fallout](https://fallout.hackclub.com) — grant that made this real
 
-Made by **broccoli (Nabeel Ahmed), 18** — Punjab, Pakistan 🇵🇰
+Made by **broccoli Nabeel Ahmed(18) X Hashir(17),** — Punjab, Pakistan 🇵🇰
 
 ---
 
