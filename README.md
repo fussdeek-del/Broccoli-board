@@ -7,7 +7,7 @@
 [![Firmware](https://img.shields.io/badge/firmware-ZMK-00599C?style=flat-square)]()
 [![Wireless](https://img.shields.io/badge/wireless-BLE%205.0-blueviolet?style=flat-square)]()
 
-> A fully wireless 75% mechanical keyboard built from scratch — custom PCB, per-key RGB, BLE 5.0, hot-swap switches, and a 3D printed case. Every component chosen, every trace routed by hand.
+> A fully wireless 75% mechanical keyboard built from scratch custom PCB, per-key RGB, BLE 5.0, hot-swap switches, and a 3D printed case. Every component chosen, every trace routed by hand.
 
 ---
 
@@ -15,6 +15,7 @@
 
 Broccoli Board is a custom 84-key 75% keyboard I designed completely from scratch. The PCB is designed in KiCad, the case in Fusion 360, and the firmware runs on ZMK. It's fully wireless over BLE 5.0 via the nice!nano V2, has per-key RGB LEDs reverse-mounted on the back of the PCB, and uses Kailh hot-swap sockets so I can swap switches without touching a soldering iron.
 
+## Why i built it?
 I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I built one.
 
 ---
@@ -27,56 +28,29 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 
 ## Gallery
 
-### AI Renders
-
-![AI Generated Final Look](img%20assets/AI%20generated%20final%20look.jpg)
-
-![AI Generated Final Look 2](img%20assets/AI%20generated%20final%20look%202.jpg)
-
 ### CAD & Assembly
-
-![Full Assembly CAD](img%20assets/full%20assembly%20CAD.jpg)
-
-![CAD Side Look](img%20assets/CAD%20side%20look%202.jpg)
-
-![Side Curved View](img%20assets/side%20curved%20view.png)
-
-### Case / Tray
-
-![Tray Front](img%20assets/Tray%20front.png)
-
-![Tray Back](img%20assets/Tray%20back.png)
-
-![Plate](img%20assets/plate.png)
+<table>
+  <tr>
+    <td><img src="img%20assets/full%20assembly%20CAD.jpg" width="400"/></td>
+    <td><img src="img%20assets/side%20curved%20view.png" width="400"/></td>
+  </tr>
+</table>
 
 ### PCB
-
-![PCB Front](img%20assets/PCB%20F.cu.png)
-
-![PCB Back](img%20assets/PCB%20B.cu.png)
-
-### Keys Placed
-
-![Placed Keys](img%20assets/placed%20keys.jfif)
-
-### Cover
-
-![Cover](img%20assets/cover.png)
-
----
-
-## QR Code
-
-![QR Code](img%20assets/QR%20code.png)
-
+<table>
+  <tr>
+    <td><img src="img%20assets/PCB%20Fcu.png" width="400"/></td>
+    <td><img src="img%20assets/PCB%20Bcu.png" width="400"/></td>
+  </tr>
+</table>
 ---
 
 ## Features
 
 - 84 keys, 75% layout
 - Wireless BLE 5.0 via nice!nano V2 (nRF52840)
-- Per-key SK6812 Mini-E RGB — reverse mount on B.Cu
-- Kailh hot-swap sockets — no soldering to swap switches
+- Per-key SK6812 Mini-E RGB reverse mount on B.Cu
+- Kailh hot-swap sockets no soldering to swap switches
 - Rotary encoder with push switch (EC11)
 - USB-C wired + wireless dual mode
 - 3.7V LiPo 2000mAh with MCP73831 charger IC
@@ -84,7 +58,7 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 - USBLC6-2SC6 ESD protection on USB lines
 - ZMK firmware
 - 2-layer PCB, KiCad 10, JLCPCB fabrication
-- Custom 3D printed case — tray, plate, and bezel
+- Custom 3D printed case tray, plate, and bezel
 
 ---
 
@@ -123,30 +97,52 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 ### Flash the Firmware
 1. Fork the [ZMK firmware repo](https://github.com/fussdeek-del/Broccoli--board-zmk)
 2. Edit keymap at `boards/shields/broccoli_board/broccoli_board.keymap`
-3. Push — GitHub Actions builds automatically
+3. Push GitHub Actions builds automatically
 4. Download `.uf2` from Actions artifacts
 5. Double-tap reset on nice!nano to enter bootloader
 6. Drag `.uf2` onto the USB drive that appears
+note: The frimware isn't completely, i will complete it once this gets approved.
 
 ### Assembly Notes
 - Solder LEDs on **B.Cu** reverse mount facing down
 - Solder hotswap sockets on **F.Cu**
-- Socket the nice!nano with mill-max sockets, don't solder directly
+- Solder the nice!nano v2
 - Battery connects via JST PH2 to J2
-
----
-
-> ZMK firmware repo: [Broccoli--board-zmk](https://github.com/fussdeek-del/Broccoli--board-zmk)
-
----
 
 ## BOM
 
-[![BOM](https://img.shields.io/badge/BOM-CSV-green?style=flat-square)](./Broccoli%20board%20BOM.csv)
+> 💰 Estimated total: **~$174 USD** — can drop to **$120–$140** buying locally.
 
-Full bill of materials with AliExpress and JLCPCB links — [view BOM file](./Broccoli%20board%20BOM.csv)
-
-Estimated total: **~$153 USD** with clone nice!nano, **~$165 USD** with original.
+| Component | Spec | Qty | Price | Notes | Link |
+|---|---|---|---|---|---|
+| Microcontroller (MCU) | nice!nano V2 nRF52840 | ×1 | $5.00 | Clone — cheaper, slightly less reliable | [Buy](https://www.aliexpress.com/item/1005006271881076.html) |
+| 74AHCT125 Level Shifter | TSSOP-14 | ×1 | $2.52 | Pack of 10 — LED data 3.3V→5V | [Buy](https://www.aliexpress.com/item/1005008171122183.html) |
+| MCP73831 LiPo Charger | SOT-23-5 | ×1 | $2.50 | Pack of 10 — LiPo charging IC | [Buy](https://www.aliexpress.com/item/1005007439657191.html) |
+| ME6211 3.3V LDO | ME6211C33 SOT-23-5 | ×1 | $2.20 | Pack of 10 — 3.3V regulator | [Buy](https://www.aliexpress.com/item/1005007315116858.html) |
+| USBLC6-2SC6 ESD Protection | SOT-23-6 | ×1 | $1.50 | Pack of 10 — USB ESD protection | [Buy](https://www.aliexpress.com/item/32807108222.html) |
+| Gateron Blue Switch | G Pro Blue 5-pin | ×84 | $24.00 | Pack of 100 — 5-pin PCB mount | [Buy](https://www.aliexpress.com/item/1005006091988869.html) |
+| Kailh Hotswap Socket | MX compatible | ×84 | $7.00 | Pack of 100 | [Buy](https://www.aliexpress.com/item/1005006105603269.html) |
+| EC11 Rotary Encoder | 20mm with push switch | ×1 | $2.00 | Pack of 5 | [Buy](https://www.aliexpress.com/item/1005006460161288.html) |
+| Reset Button | SMD tactile 3×4mm | ×1 | $1.50 | Pack of 30 | [Buy](https://www.aliexpress.com/item/4001107416458.html) |
+| SK6812 Mini-E RGB LED | Reverse mount | ×84 | $13.50 | Pack of 100 — buy 100, need 84 + spares | [Buy](https://www.aliexpress.com/item/1005004249903121.html) |
+| 1N4148W Matrix Diode | SOD-123 | ×84 | $1.50 | Pack of 100 — buy 100, need 84 + spares | [Buy](https://www.aliexpress.com/item/1005010728396328.html) |
+| Resistor 10K | 0603 | ×10 | $1.20 | Pack of 300 | [Buy](https://www.aliexpress.com/item/1005011779883974.html) |
+| Resistor 5.1K | 0603 | ×5 | $1.30 | Pack of 300 | [Buy](https://www.aliexpress.com/item/1005011779883974.html) |
+| Resistor 330Ω | 0603 | ×1 | $2.00 | Pack of 500 | [Buy](https://www.aliexpress.com/item/1005005700395390.html) |
+| Capacitor 100nF | 0805 | ×100 | $2.00 | Pack of 200 | [Buy](https://www.aliexpress.com/item/1005007660078779.html) |
+| Capacitor 10µF | 0805 | ×1 | $2.20 | Pack of 200 | [Buy](https://www.aliexpress.com/item/1005007660078779.html) |
+| USB-C Receptacle 16P | GCT USB4105 SMD | ×1 | $4.50 | Pack of 5 | [Buy](https://www.aliexpress.com/item/1005005581945089.html) |
+| JST PH2 2-pin | PH2.0 2-pin connector | ×1 | $2.00 | Pack of 2 | [Buy](https://www.aliexpress.com/item/1005010615395743.html) |
+| Polyfuse 500mA | Resettable fuse 1206 | ×1 | $1.70 | Pack of 10 | [Buy](https://www.aliexpress.com/item/1005005235906949.html) |
+| LiPo 3.7V 2000mAh | 804050, JST PH | ×1 | $9.40 | Price for 2 | [Buy](https://www.aliexpress.com/item/1005005984841109.html) |
+| Keycap Set | PBT 75% MX compatible | ×75 | $22.50 | 100+ keycaps included | [Buy](https://www.aliexpress.com/item/1005007416863215.html) |
+| Rotary Knob | Aluminum 6mm D shaft 20mm | ×1 | $2.00 | 2 pieces | [Buy](https://www.aliexpress.com/item/4001091267351.html) |
+| PCB Fabrication | 2-layer, FR-4, 1.6mm, HASL | ×5 boards | $22.20 | Minimum 5 pieces | [JLCPCB](https://cart.jlcpcb.com/quote) |
+| 3D Print — Tray | SLA resin | ×1 | $25.30 | Local 3D printer recommended | [JLC3DP](https://jlc3dp.com/3d-printing-quote) |
+| 3D Print — Top Plate | SLA resin | ×1 | $8.30 | Local 3D printer recommended | [JLC3DP](https://jlc3dp.com/3d-printing-quote) |
+| 3D Print — Top Cover | SLA resin | ×1 | $2.65 | Local 3D printer recommended | [JLC3DP](https://jlc3dp.com/3d-printing-quote) |
+| M3 Screws | M3 × 8mm countersunk | ×10 | $1.00 | Pack of 50 | [Buy](https://www.aliexpress.com/item/1005008810897680.html) |
+| M3 Standoffs | M3 × 4mm | ×10 | $1.00 | Pack of 50 | [Buy](https://www.aliexpress.com/item/1005008810897680.html) |
 
 ---
 
