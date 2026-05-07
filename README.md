@@ -23,7 +23,7 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 
 ## Demo
 
-![Full assembly](img%20assets/full-assembly.png)
+![Full assembly](img%20assets/full-assembly-CAD.png)
 
 ![PCB layout](img%20assets/pcb.png)
 
