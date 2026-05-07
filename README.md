@@ -108,11 +108,40 @@ note: The frimware isn't completely, i will complete it once this gets approved.
 
 ## BOM
 
-[![BOM](https://img.shields.io/badge/BOM-CSV-green?style=flat-square)](./Broccoli%20board%20BOM.csv)
+## BOM
 
-Full bill of materials with AliExpress and JLCPCB links — [view BOM file](./Broccoli%20board%20BOM.csv)
+> 💰 Estimated total: **~$174 USD** — can drop to **$120–$140** buying locally.
 
-Estimated total: **~$153 USD** with clone nice!nano, **~$165 USD** with original.
+| Component | Spec | Qty | Price | Notes | Link |
+|---|---|---|---|---|---|
+| Microcontroller (MCU) | nice!nano V2 nRF52840 | ×1 | $5.00 | Clone — cheaper, slightly less reliable | [Buy](https://www.aliexpress.com/item/1005006271881076.html) |
+| 74AHCT125 Level Shifter | TSSOP-14 | ×1 | $2.52 | Pack of 10 — LED data 3.3V→5V | [Buy](https://www.aliexpress.com/item/1005008171122183.html) |
+| MCP73831 LiPo Charger | SOT-23-5 | ×1 | $2.50 | Pack of 10 — LiPo charging IC | [Buy](https://www.aliexpress.com/item/1005007439657191.html) |
+| ME6211 3.3V LDO | ME6211C33 SOT-23-5 | ×1 | $2.20 | Pack of 10 — 3.3V regulator | [Buy](https://www.aliexpress.com/item/1005007315116858.html) |
+| USBLC6-2SC6 ESD Protection | SOT-23-6 | ×1 | $1.50 | Pack of 10 — USB ESD protection | [Buy](https://www.aliexpress.com/item/32807108222.html) |
+| Gateron Blue Switch | G Pro Blue 5-pin | ×84 | $24.00 | Pack of 100 — 5-pin PCB mount | [Buy](https://www.aliexpress.com/item/1005006091988869.html) |
+| Kailh Hotswap Socket | MX compatible | ×84 | $7.00 | Pack of 100 | [Buy](https://www.aliexpress.com/item/1005006105603269.html) |
+| EC11 Rotary Encoder | 20mm with push switch | ×1 | $2.00 | Pack of 5 | [Buy](https://www.aliexpress.com/item/1005006460161288.html) |
+| Reset Button | SMD tactile 3×4mm | ×1 | $1.50 | Pack of 30 | [Buy](https://www.aliexpress.com/item/4001107416458.html) |
+| SK6812 Mini-E RGB LED | Reverse mount | ×84 | $13.50 | Pack of 100 — buy 100, need 84 + spares | [Buy](https://www.aliexpress.com/item/1005004249903121.html) |
+| 1N4148W Matrix Diode | SOD-123 | ×84 | $1.50 | Pack of 100 — buy 100, need 84 + spares | [Buy](https://www.aliexpress.com/item/1005010728396328.html) |
+| Resistor 10K | 0603 | ×10 | $1.20 | Pack of 300 | [Buy](https://www.aliexpress.com/item/1005011779883974.html) |
+| Resistor 5.1K | 0603 | ×5 | $1.30 | Pack of 300 | [Buy](https://www.aliexpress.com/item/1005011779883974.html) |
+| Resistor 330Ω | 0603 | ×1 | $2.00 | Pack of 500 | [Buy](https://www.aliexpress.com/item/1005005700395390.html) |
+| Capacitor 100nF | 0805 | ×100 | $2.00 | Pack of 200 | [Buy](https://www.aliexpress.com/item/1005007660078779.html) |
+| Capacitor 10µF | 0805 | ×1 | $2.20 | Pack of 200 | [Buy](https://www.aliexpress.com/item/1005007660078779.html) |
+| USB-C Receptacle 16P | GCT USB4105 SMD | ×1 | $4.50 | Pack of 5 | [Buy](https://www.aliexpress.com/item/1005005581945089.html) |
+| JST PH2 2-pin | PH2.0 2-pin connector | ×1 | $2.00 | Pack of 2 | [Buy](https://www.aliexpress.com/item/1005010615395743.html) |
+| Polyfuse 500mA | Resettable fuse 1206 | ×1 | $1.70 | Pack of 10 | [Buy](https://www.aliexpress.com/item/1005005235906949.html) |
+| LiPo 3.7V 2000mAh | 804050, JST PH | ×1 | $9.40 | Price for 2 | [Buy](https://www.aliexpress.com/item/1005005984841109.html) |
+| Keycap Set | PBT 75% MX compatible | ×75 | $22.50 | 100+ keycaps included | [Buy](https://www.aliexpress.com/item/1005007416863215.html) |
+| Rotary Knob | Aluminum 6mm D shaft 20mm | ×1 | $2.00 | 2 pieces | [Buy](https://www.aliexpress.com/item/4001091267351.html) |
+| PCB Fabrication | 2-layer, FR-4, 1.6mm, HASL | ×5 boards | $22.20 | Minimum 5 pieces | [JLCPCB](https://cart.jlcpcb.com/quote) |
+| 3D Print — Tray | SLA resin | ×1 | $25.30 | Local 3D printer recommended | [JLC3DP](https://jlc3dp.com/3d-printing-quote) |
+| 3D Print — Top Plate | SLA resin | ×1 | $8.30 | Local 3D printer recommended | [JLC3DP](https://jlc3dp.com/3d-printing-quote) |
+| 3D Print — Top Cover | SLA resin | ×1 | $2.65 | Local 3D printer recommended | [JLC3DP](https://jlc3dp.com/3d-printing-quote) |
+| M3 Screws | M3 × 8mm countersunk | ×10 | $1.00 | Pack of 50 | [Buy](https://www.aliexpress.com/item/1005008810897680.html) |
+| M3 Standoffs | M3 × 4mm | ×10 | $1.00 | Pack of 50 | [Buy](https://www.aliexpress.com/item/1005008810897680.html) |
 
 ---
 
