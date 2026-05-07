@@ -7,7 +7,7 @@
 [![Firmware](https://img.shields.io/badge/firmware-ZMK-00599C?style=flat-square)]()
 [![Wireless](https://img.shields.io/badge/wireless-BLE%205.0-blueviolet?style=flat-square)]()
 
-> A fully wireless 75% mechanical keyboard built from scratch — custom PCB, per-key RGB, BLE 5.0, hot-swap switches, and a 3D printed case. Every component chosen, every trace routed by hand.
+> A fully wireless 75% mechanical keyboard built from scratch custom PCB, per-key RGB, BLE 5.0, hot-swap switches, and a 3D printed case. Every component chosen, every trace routed by hand.
 
 ---
 
@@ -97,7 +97,7 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 ### Flash the Firmware
 1. Fork the [ZMK firmware repo](https://github.com/fussdeek-del/Broccoli--board-zmk)
 2. Edit keymap at `boards/shields/broccoli_board/broccoli_board.keymap`
-3. Push — GitHub Actions builds automatically
+3. Push GitHub Actions builds automatically
 4. Download `.uf2` from Actions artifacts
 5. Double-tap reset on nice!nano to enter bootloader
 6. Drag `.uf2` onto the USB drive that appears
@@ -106,10 +106,8 @@ note: The frimware isn't completely, i will complete it once this gets approved.
 ### Assembly Notes
 - Solder LEDs on **B.Cu** reverse mount facing down
 - Solder hotswap sockets on **F.Cu**
-- Solder the nice!nano v2 clone
+- Solder the nice!nano v2
 - Battery connects via JST PH2 to J2
-
-## BOM
 
 ## BOM
 
