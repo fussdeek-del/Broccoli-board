@@ -101,6 +101,7 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 4. Download `.uf2` from Actions artifacts
 5. Double-tap reset on nice!nano to enter bootloader
 6. Drag `.uf2` onto the USB drive that appears
+
 note: The frimware isn't completely, i will complete it once this gets approved.
 
 ### Assembly Notes
