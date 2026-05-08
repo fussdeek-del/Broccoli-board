@@ -146,7 +146,8 @@ note: The frimware isn't completely, i will complete it once this gets approved.
 
 ---
 ## Schematics note
-Schematics is reviewed my multiple people + AI. there was problem init that i fixed, and now it LGTM
+Schematics is reviewed my multiple people in fallout + AI. there was problem init that i fixed, and now it LGTM
+repo is surface checked by riitam
 ## Credits
 
 - [KiCad](https://www.kicad.org/) — PCB design
