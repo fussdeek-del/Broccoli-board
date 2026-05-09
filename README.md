@@ -101,6 +101,7 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 4. Download `.uf2` from Actions artifacts
 5. Double-tap reset on nice!nano to enter bootloader
 6. Drag `.uf2` onto the USB drive that appears
+
 note: The frimware isn't completely, i will complete it once this gets approved.
 
 ### Assembly Notes
@@ -115,7 +116,7 @@ note: The frimware isn't completely, i will complete it once this gets approved.
 
 | Component | Spec | Qty | Price | Notes | Link |
 |---|---|---|---|---|---|
-| Microcontroller (MCU) | nice!nano V2 nRF52840 | ×1 | $5.00 | Clone — cheaper, slightly less reliable | [Buy](https://www.aliexpress.com/item/1005006271881076.html) |
+| Microcontroller (MCU) | nice!nano V2 nRF52840 | ×1 | $7.00 | Clone — cheaper, slightly less reliable | [Buy](https://www.aliexpress.com/item/1005006271881076.html) |
 | 74AHCT125 Level Shifter | TSSOP-14 | ×1 | $2.52 | Pack of 10 — LED data 3.3V→5V | [Buy](https://www.aliexpress.com/item/1005008171122183.html) |
 | MCP73831 LiPo Charger | SOT-23-5 | ×1 | $2.50 | Pack of 10 — LiPo charging IC | [Buy](https://www.aliexpress.com/item/1005007439657191.html) |
 | ME6211 3.3V LDO | ME6211C33 SOT-23-5 | ×1 | $2.20 | Pack of 10 — 3.3V regulator | [Buy](https://www.aliexpress.com/item/1005007315116858.html) |
@@ -146,7 +147,8 @@ note: The frimware isn't completely, i will complete it once this gets approved.
 
 ---
 ## Schematics note
-Schematics is reviewed my multiple people + AI. there was problem init that i fixed, and now it LGTM
+Schematics is reviewed my multiple people in fallout + AI. there was problem init that i fixed, and now it LGTM
+repo is surface checked by riitam
 ## Credits
 
 - [KiCad](https://www.kicad.org/) — PCB design
