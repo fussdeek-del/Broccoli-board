@@ -16,7 +16,7 @@
 Broccoli Board is a custom 84-key 75% keyboard I designed completely from scratch. The PCB is designed in KiCad, the case in Fusion 360, and the firmware runs on ZMK. It's fully wireless over BLE 5.0 via the nice!nano V2, has per-key RGB LEDs reverse-mounted on the back of the PCB, and uses Kailh hot-swap sockets so I can swap switches without touching a soldering iron.
 
 ## Why i built it?
-I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I built one.
+I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I built one my own that belong to me.and a lil bit to hackclub, just a lil bit. LOL 😂 
 
 ---
 
