@@ -157,7 +157,7 @@ repo is surface checked by riitam
 - [nice!nano](https://nicekeyboards.com/nice-nano/) — nRF52840 BLE module
 - [Hack Club Fallout](https://fallout.hackclub.com) — grant that made this real
 
-Made by **Nabeel Ahmed (18) × Hashir (17)** — Punjab, Pakistan 🇵🇰
+Made by **Nabeel Ahmed (18) × Hashir (17)** — Punjab, Pakistan 🇵🇰 BWP
 
 ---
 
