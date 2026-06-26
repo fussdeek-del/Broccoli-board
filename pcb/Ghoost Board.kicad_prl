@@ -119,8 +119,8 @@
   "project": {
     "files": [
       {
-        "name": "Ghoost Board.kicad_pro",
-        "open": false,
+        "name": "Ghoost Board.kicad_sch",
+        "open": true,
         "window": {
           "display": 0,
           "maximized": true,

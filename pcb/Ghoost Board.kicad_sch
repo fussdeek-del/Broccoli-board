@@ -4937,7 +4937,7 @@
 		)
 		(uuid "0ec0e5ff-7147-40fc-af68-05eca7643bd8")
 	)
-	(text "note: ANTENNA KEEP-OUT - in PCB layout, clear all copper pour under the antenna end of\nU1. No copper fill, no traces, no pads within 3mm of antenna edge."
+	(text "note: ANTENNA KEEP-OUT - in PCB layout, clear all copper pour under the antenna end of\nU1. No copper fill, no traces, no pads within 3mm of antenna edge"
 		(exclude_from_sim no)
 		(at 241.554 17.272 0)
 		(effects
@@ -5009,7 +5009,7 @@
 		)
 		(uuid "51aa1fe8-f5ef-4c80-8b7b-8a9ec9b01cf8")
 	)
-	(text "RF NOTE - route no signal traces parallel to or under the antenna. Keep\nantenna end of module at PCB edge for best radiation pattern.\n"
+	(text "RF NOTE - route no signal traces parallel to or under the antenna. Keep\nantenna end of module at PCB edge for best radiation pattern\n"
 		(exclude_from_sim no)
 		(at 330.2 17.526 0)
 		(effects
