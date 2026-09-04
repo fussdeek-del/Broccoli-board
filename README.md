@@ -45,6 +45,8 @@ I didn't want to spend $200+ on a keyboard that still isn't fully mine. So I bui
 </table>
 ---
 
+### PCB Soldered
+
 ## Features
 
 - 84 keys, 75% layout
