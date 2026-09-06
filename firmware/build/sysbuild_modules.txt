@@ -1,1 +1,0 @@
-"mcuboot":"F:/OneDrive/Desktop/cloned repos/Broccoli-board/zmk-workspace/bootloader/mcuboot":"F:/OneDrive/Desktop/cloned repos/Broccoli-board/zmk-workspace/bootloader/mcuboot/boot/zephyr/sysbuild"

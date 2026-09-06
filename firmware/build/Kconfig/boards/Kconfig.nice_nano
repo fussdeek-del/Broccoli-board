@@ -1,3 +1,0 @@
-# Load board Kconfig descriptions.
-osource "F:/OneDrive/Desktop/cloned repos/Broccoli-board/zmk-workspace/zmk.git/app/module/boards/nicekeyboards/nice_nano/Kconfig.nice_nano"
-osource "F:/OneDrive/Desktop/cloned repos/Broccoli-board/zmk-workspace/zmk.git/app/boards/nicekeyboards/nice_nano/Kconfig.nice_nano"
