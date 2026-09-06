@@ -6,6 +6,4 @@ on:
 
 jobs:
   build:
-    uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@main
-    with:
-        config_path: config
+    uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@v0.3
