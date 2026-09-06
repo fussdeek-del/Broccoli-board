@@ -30,49 +30,81 @@
         diode-direction = "col2row";
 
         col-gpios
-            = <&pro_micro 20 GPIO_ACTIVE_HIGH>
-            , <&pro_micro 19 GPIO_ACTIVE_HIGH>
-            , <&pro_micro 18 GPIO_ACTIVE_HIGH>
-            , <&pro_micro 17 GPIO_ACTIVE_HIGH>
-            , <&pro_micro 16 GPIO_ACTIVE_HIGH>
-            , <&pro_micro 15 GPIO_ACTIVE_HIGH>
-            , <&pro_micro 14 GPIO_ACTIVE_HIGH>
-            , <&pro_micro 13 GPIO_ACTIVE_HIGH>
-            , <&pro_micro 32 GPIO_ACTIVE_HIGH>
-            , <&pro_micro 33 GPIO_ACTIVE_HIGH>
+            = <&gpio0 31 GPIO_ACTIVE_HIGH> 
+            , <&gpio0 29 GPIO_ACTIVE_HIGH>
+            , <&gpio0 2 GPIO_ACTIVE_HIGH>
+            , <&gpio1 15 GPIO_ACTIVE_HIGH> // 17 doesn't exist, I assume you mean P0.17 which is pro_micro 2
+            , <&gpio1 13 GPIO_ACTIVE_HIGH>
+            , <&gpio1 11 GPIO_ACTIVE_HIGH>
+            , <&gpio0 10 GPIO_ACTIVE_HIGH>
+            , <&gpio0 9 GPIO_ACTIVE_HIGH> // 13 doesn't exist
+            , <&gpio1 2 GPIO_ACTIVE_HIGH> // 32 doesn't exist
+            , <&gpio1 7 GPIO_ACTIVE_HIGH> // 33 doesn't exist
             ;
 
         row-gpios
-            = <&pro_micro 5  (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&pro_micro 6  (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&pro_micro 7  (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&pro_micro 8  (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&pro_micro 9  (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&pro_micro 10 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&pro_micro 11 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&pro_micro 12 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&pro_micro 31 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            = <&gpio0 17 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            , <&gpio0 20(GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            , <&gpio0 22 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            , <&gpio0 24 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            , <&gpio1 0 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            , <&gpio0 11 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            , <&gpio1 4(GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)> //11 doesn't exist
+            , <&gpio1 6 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)> //12 doesn't exist
+            , <&gpio1 1 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)> //31 doesn't exist
             ;
     };
 
     // Encoder (rotation + push button)
     encoder0: encoder0 {
         compatible = "alps,ec11";
-        a-gpios = <&pro_micro 2 (GPIO_PULL_UP | GPIO_ACTIVE_LOW)>;
-        b-gpios = <&pro_micro 24 (GPIO_PULL_UP | GPIO_ACTIVE_LOW)>;
-        steps-per-detent = <4>;
+        a-gpios = <&gpio0 8 (GPIO_PULL_UP | GPIO_ACTIVE_LOW)>;
+        b-gpios = <&gpio0 4 (GPIO_PULL_UP | GPIO_ACTIVE_LOW)>; //doesn't exist
+        steps = <4>; // this is just steps https://zmk.dev/docs/config/encoders#ec11-nodes
     };
 
     // Encoder push button as a separate key
-    encoder_button: encoder_button {
-        compatible = "zmk,kscan-gpio-direct";
-        input-gpios = <&pro_micro 25 (GPIO_PULL_UP | GPIO_ACTIVE_LOW)>;  // Change this pin if needed
+    //encoder_button: encoder_button {
+    //    compatible = "zmk,kscan-gpio-direct";
+    //    input-gpios = <&pro_micro 25 (GPIO_PULL_UP | GPIO_ACTIVE_LOW)>;  // Change this pin if needed //doesn't exist
+    //};
+    // no encoder button wired up
+
+};
+
+&pinctrl {
+    spi3_default: spi3_default {
+	group1 {
+	    psels = <NRF_PSEL(SPIM_MOSI, 0, 1)>;
+	};
     };
 
-    rgbleds: rgbleds {
-        compatible = "worldsemi,ws2812-gpio";
-        gpios = <&pro_micro 1 GPIO_ACTIVE_HIGH>;
-        chain-length = <84>;
-        color-mapping = <LED_COLOR_ID_GREEN LED_COLOR_ID_RED LED_COLOR_ID_BLUE>;
+    spi3_sleep: spi3_sleep {
+	group1 {
+	    psels = <NRF_PSEL(SPIM_MOSI, 0, 1)>;
+	    low-power-enable;
+	};
+    };
+};
+
+&spi3 {
+    compatible = "nordic,nrf-spim";
+    status = "okay";
+
+    pinctrl-0 = <&spi3_default>;
+    pinctrl-1 = <&spi3_sleep>;
+    pinctrl-names = "default", "sleep";
+
+    rgbleds: ws2812@0 {
+	compatible = "worldsemi,ws2812-spi";
+
+	reg = <0>; /* ignored, but required for SPI bindings */
+	spi-max-frequency = <4000000>;
+
+	chain-length = <84>;
+	spi-one-frame = <0x70>;
+	spi-zero-frame = <0x40>;
+
+	color-mapping = <LED_COLOR_ID_GREEN LED_COLOR_ID_RED LED_COLOR_ID_BLUE>;
     };
 };
