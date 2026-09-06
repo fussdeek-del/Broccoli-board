@@ -76,3 +76,5 @@
         color-mapping = <LED_COLOR_ID_GREEN LED_COLOR_ID_RED LED_COLOR_ID_BLUE>;
     };
 };
+
+#include "broccoli_board.keymap.dtsi"
