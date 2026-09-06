@@ -72,7 +72,7 @@
 
     rgbleds: rgbleds {
         compatible = "worldsemi,ws2812-gpio";
-        gpios = <&gpio0 6 GPIO_ACTIVE_HIGH>; 
+        in-gpios = <&gpio0 6 GPIO_ACTIVE_HIGH>; 
         chain-length = <84>;
         color-mapping = <LED_COLOR_ID_GREEN LED_COLOR_ID_RED LED_COLOR_ID_BLUE>;
     };
