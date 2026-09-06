@@ -1,0 +1,6 @@
+west:
+  command: C:\Users\Smart Tech\AppData\Local\Programs\Python\Python310\Scripts\west
+    build -s zmk.git/app -d build/broccoli_nice_nano -b nice_nano_v2 -- -DZMK_CONFIG=F:/OneDrive/Desktop/cloned
+    repos/Broccoli-board/firmware -DSHIELD=broccoli_board
+  topdir: F:\OneDrive\Desktop\cloned repos\Broccoli-board\zmk-workspace
+  version: 1.5.0

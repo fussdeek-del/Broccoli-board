@@ -1,0 +1,11 @@
+manifest:
+  projects:
+    - name: zephyr
+      url: https://github.com/zmkfirmware/zephyr
+      revision: v4.1.0+zmk-fixes
+      path: zephyr
+      import: true
+    - name: zmk
+      url: https://github.com/zmkfirmware/zmk
+      revision: main
+      path: zmk.git
