@@ -1,0 +1,6 @@
+if SHIELD_BROCCOLI_BOARD
+
+config ZMK_KEYBOARD_NAME
+    default "Broccoli Board"
+
+endif
