@@ -60,7 +60,7 @@
         compatible = "alps,ec11";
         a-gpios = <&gpio0 8 (GPIO_PULL_UP | GPIO_ACTIVE_LOW)>;
         b-gpios = <&gpio0 4 (GPIO_PULL_UP | GPIO_ACTIVE_LOW)>; //doesn't exist
-        steps-per-detent = <4>;
+        steps = <4>; // this is just steps https://zmk.dev/docs/config/encoders#ec11-nodes
     };
 
     // Encoder push button as a separate key
